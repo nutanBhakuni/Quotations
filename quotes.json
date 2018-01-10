@@ -1,0 +1,52 @@
+[
+	{
+		"text": "A faith that cannot survive collision with the truth is not worth many regrets.",
+		"author": "Arthur C. Clarke",
+		"image": "images/arthurcclarke.jpeg"
+	},
+	{
+		"text": "Belive nothing, merely because you have been told it, Or because it is traditional, Or because you yourself have imagined it, Do not believe what your teacher tells you, merely out of respect for the teacher. But whatever, after due examination and analysis, you find to be conducive to the good, the benefit, the welfare of all beings, that doctrine believe and cling to and take it as your guide.",
+		"author": "Gautam Buddha",
+		"image": "images/Buddha.jpeg"
+	},
+	{
+		"text": "You don't have a good grammer when you type with your fists.",
+		"author": "C. F. Payne",
+		"image": "images/cfpayne.jpeg"
+	},
+	{
+		"text": "Those who have long enjoyed such privilege as we enjoy, forget in time that men have died to win them.",
+		"author": "F.D.Roosevelt",
+		"image": "images/franklin-d-roosevelt.jpeg"
+	},
+	{
+		"text": "The belief in a supernatural source of evil is not necessary; men alone are quite capable of every wickedness.",
+		"author": "Joseph Conrad",
+		"image": "images/josephConrad.jpeg"
+	},
+	{
+		"text": "Though the mills of God grind slowly; Yet they grind exceedingly small; Though with patience He stands waiting, With exactness grinds He all.",
+		"author": "Henry Wadsworth Longfellow",
+		"image": "images/longfellow.jpeg"
+	},
+	{
+		"text": "Victory belongs to the most persevering.",
+		"author": "Napoleon Bonaparte",
+		"image": "images/napoleon-bonaparte.jpeg"
+	},
+	{
+		"text": "The characteristics of a genuine heroism is its persistency. All men have wandering impulses, fits and starts of generosity. But when you have resolved to be great, abide by yourself, and do not weakly try to reconcile yourself with the world. The heroic cannot be the common, nor the common the heroic.",
+		"author": "Ralph Waldo Emerson",
+		"image": "images/RalphWaldoEmerson.jpeg"
+	},
+	{
+		"text": "All the world's a stage, and all the men and women merely players; they have their exits and their entrances; and one man in his time plays many parts.",
+		"author": "William Shakespeare",
+		"image": "images/shakespeare.jpeg"
+	},
+	{
+		"text": "I hold it true, whatever befall; I feel it, when I sorrow most; 'Tis better to have loved and lost, Than never to have loved at all.",
+		"author": "Lord Alfred Tennyson",
+		"image": "images/tennyson.jpeg"
+	}
+]
